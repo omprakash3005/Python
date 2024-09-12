@@ -1,0 +1,7 @@
+In this chapter I have covered basic concept of the python in which we had seen different version of python i.e 3.X and 2.X
+how to see version of python in our cmd "python --version"
+how to run code in IDLE of Python and differentiate between python version 2.X and python version 3.X
+Learned about the import statement where we can import 3.X version command in 2.X version by using "from __future__ import print_function"
+Learned about how to Create variable and assign values
+Learned about how variables are case sensitive
+1.3 in this section i had learned about block indentation in functions, conditional statements, loop
